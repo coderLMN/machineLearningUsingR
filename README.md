@@ -20,5 +20,7 @@
 
 --
 
+
 ## 补充说明
-有读者问到本书的代码和数据在哪里下载的问题，大家可以去本书的官方github上下载：https://github.com/Apress/machine-learning-using-r
+
+有读者问到本书的代码和数据在哪里下载的问题，大家可以去本书的官方 github 下载：https://github.com/Apress/machine-learning-using-r
